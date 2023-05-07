@@ -17,7 +17,7 @@ Antes de empezar a usar este proyecto, asegúrese de tener instalados los siguie
 - npm o yarn
 
 ## Instalación
-1. Clona el repositorio en tu máquina local usando `git clone https://github.com/Carlosmedina06/QuickTasks`
+1. Clona el repositorio en tu máquina local usando `git clone https://github.com/Carlosmedina06/QuickTask`
 2. Instala las dependencias con `npm install`
 3. Inicia el servidor con `npm run dev`
 4. Abre el navegador en `http://localhost:3000`
