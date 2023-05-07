@@ -1,34 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# QuickTask ⚡️
 
-## Getting Started
+Una sencilla aplicación para tomar tareas rápidas y organizarlas fácilmente.
 
-First, run the development server:
+## Características
+1. Creación y edición de tareas
+2. Organización de tareas por categorías
+3. Busqueda de tareas
+4. Interfaz intuitiva y fácil de usar
+5. login y registro de usuarios
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Requisitos previos
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Antes de empezar a usar este proyecto, asegúrese de tener instalados los siguientes programas:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Node.js
+- npm o yarn
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Instalación
+1. Clona el repositorio en tu máquina local usando `git clone https://github.com/Carlosmedina06/QuickTasks`
+2. Instala las dependencias con `npm install`
+3. Inicia el servidor con `npm run dev`
+4. Abre el navegador en `http://localhost:3000`
 
-## Learn More
+## Demo
+proximamente
 
-To learn more about Next.js, take a look at the following resources:
+## Autor
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Carlos Medina
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![GitHub][github-shield]][github-url]
 
-## Deploy on Vercel
+<!-- Enlaces a redes sociales -->
+[linkedin-url]: https://www.linkedin.com/in/carlosmedina06/
+[github-url]: https://github.com/Carlosmedina06
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<!-- Escudos de redes sociales -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosmedina06/
+[github-shield]: https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github&logoColor=white&link=https://github.com/Carlosmedina06
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Contribuciones
+Si quieres contribuir a este proyecto, por favor crea un pull request con tus cambios.
+
+## Licencia
+Distribuido bajo la licencia MIT. Ver `LICENSE` para más información.
